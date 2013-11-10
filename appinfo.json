@@ -1,0 +1,17 @@
+{
+  "uuid": "44ec78a3-8490-4a8e-a2fb-65f02806cb1d",
+  "shortName": "Bike Cadence Meter",
+  "longName": "Bike Cadence Meter",
+  "companyName": "JayPS",
+  "versionCode": 1,
+  "versionLabel": "1.0.0-beta1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
